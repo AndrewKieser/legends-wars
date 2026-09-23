@@ -1,0 +1,9 @@
+Use case: stylized-concept
+Asset type: original landscape browser-game battlefield background, 1536x1024 requested.
+Primary request: Create exactly one dramatic cinematic illustration of five original color-coded tokusatsu-style armored heroes confronting a colossal dark armored alien in a Japanese coastal quarry at twilight.
+Subject: Exactly five heroes in red, blue, yellow, green, and pink, each in original sleek full-body armor and a fully enclosed helmet with a black visor. Group the heroes on the left foreground, in full-body three-quarter rear views facing the colossal alien on the right background. Give each hero a clearly readable silhouette and visible color. The enormous alien has an original jagged dark armor design and luminous eyes.
+Scene/backdrop: Coastal quarry cliffs, rocky ground, a glimpse of sea, evening sky, drifting smoke and scattered sparks.
+Style/medium: Polished high-detail game concept illustration with cinematic lighting and crisp, readable shapes.
+Composition/framing: Wide landscape. Heroes occupy left third and lower-left foreground; colossal alien occupies right third background. Keep the central region relatively open and uncluttered for gameplay overlays, with atmospheric quarry ground and haze. Keep all five heroes identifiable.
+Lighting/mood: Dramatic cool twilight with warm sparks and rim lighting, adventurous heroic tension.
+Constraints: No text, no logos, no watermark, no UI, no actual named franchise costume replicas. All designs original. This is temporary reconstructed artwork for a preservation prototype, not a historical screenshot or evidence.
