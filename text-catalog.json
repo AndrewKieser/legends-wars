@@ -1,0 +1,3255 @@
+[
+  {
+    "source": "· {p8}",
+    "placeholders": [
+      "p8"
+    ],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "· 1–6 to deploy",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "\" maxlength=\"32\" required>",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "[{p0}]",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:18"
+    ]
+  },
+  {
+    "source": "{p0}",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:16",
+      "app.js:17",
+      "app.js:20",
+      "app.js:21",
+      "app.js:22",
+      "app.js:23",
+      "app.js:24",
+      "app.js:25",
+      "app.js:27",
+      "app.js:29",
+      "app.js:30",
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "{p0} · {p1}",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "app.js:57"
+    ]
+  },
+  {
+    "source": "{p0} · {p1} · RECONSTRUCTED",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p0} · {p1}{p2}",
+    "placeholders": [
+      "p0",
+      "p1",
+      "p2"
+    ],
+    "locations": [
+      "engine.js:15"
+    ]
+  },
+  {
+    "source": "{p0} · Restored 1,000 Deck HP",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "engine.js:34"
+    ]
+  },
+  {
+    "source": "{p0} {p1}",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "content.js:5"
+    ]
+  },
+  {
+    "source": "{p0} {p1} · {p2}",
+    "placeholders": [
+      "p0",
+      "p1",
+      "p2"
+    ],
+    "locations": [
+      "arena.js:5"
+    ]
+  },
+  {
+    "source": "{p0} / {p1} cards · Deck {p2}/20",
+    "placeholders": [
+      "p0",
+      "p1",
+      "p2"
+    ],
+    "locations": [
+      "app.js:26"
+    ]
+  },
+  {
+    "source": "{p0} assist",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "engine.js:37"
+    ]
+  },
+  {
+    "source": "{p0} counters {p1} · {p2}",
+    "placeholders": [
+      "p0",
+      "p1",
+      "p2"
+    ],
+    "locations": [
+      "arena.js:8"
+    ]
+  },
+  {
+    "source": "{p0} guards and recovers",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "arena.js:5"
+    ]
+  },
+  {
+    "source": "{p0} HP",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p0} joins the field",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "engine.js:37"
+    ]
+  },
+  {
+    "source": "{p0} selected",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:43"
+    ]
+  },
+  {
+    "source": "{p0} strikes {p1}",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "engine.js:44"
+    ]
+  },
+  {
+    "source": "{p0} strikes the deck",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "engine.js:44"
+    ]
+  },
+  {
+    "source": "{p0} SUPER",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "engine.js:34"
+    ]
+  },
+  {
+    "source": "{p0}-{p1}-{p2}",
+    "placeholders": [
+      "p0",
+      "p1",
+      "p2"
+    ],
+    "locations": [
+      "content.js:5"
+    ]
+  },
+  {
+    "source": "{p0}:{p1}",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "profile.js:25"
+    ]
+  },
+  {
+    "source": "{p0}{p1}",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "{p0}s",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p1}",
+    "placeholders": [
+      "p1"
+    ],
+    "locations": [
+      "app.js:15",
+      "app.js:16",
+      "app.js:17",
+      "app.js:20",
+      "app.js:21",
+      "app.js:22",
+      "app.js:23",
+      "app.js:24",
+      "app.js:25",
+      "app.js:27",
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "{p10}",
+    "placeholders": [
+      "p10"
+    ],
+    "locations": [
+      "app.js:18",
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p10} / 5 missions cleared",
+    "placeholders": [
+      "p10"
+    ],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "{p11}",
+    "placeholders": [
+      "p11"
+    ],
+    "locations": [
+      "app.js:18",
+      "app.js:22",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p12}",
+    "placeholders": [
+      "p12"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p13}",
+    "placeholders": [
+      "p13"
+    ],
+    "locations": [
+      "app.js:22",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p14}",
+    "placeholders": [
+      "p14"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p15}{p16}",
+    "placeholders": [
+      "p15",
+      "p16"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p18}/12 actions",
+    "placeholders": [
+      "p18"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p2}",
+    "placeholders": [
+      "p2"
+    ],
+    "locations": [
+      "app.js:16",
+      "app.js:17",
+      "app.js:20",
+      "app.js:22",
+      "app.js:23",
+      "app.js:24",
+      "app.js:26",
+      "app.js:27",
+      "app.js:33",
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "{p2}:{p3}",
+    "placeholders": [
+      "p2",
+      "p3"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p21} · 40 V",
+    "placeholders": [
+      "p21"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p22}",
+    "placeholders": [
+      "p22"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p23}",
+    "placeholders": [
+      "p23"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p24}",
+    "placeholders": [
+      "p24"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p3}",
+    "placeholders": [
+      "p3"
+    ],
+    "locations": [
+      "app.js:16",
+      "app.js:19",
+      "app.js:20",
+      "app.js:23",
+      "app.js:24",
+      "app.js:27",
+      "app.js:33",
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "{p3} MODE",
+    "placeholders": [
+      "p3"
+    ],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "{p4}",
+    "placeholders": [
+      "p4"
+    ],
+    "locations": [
+      "app.js:19",
+      "app.js:22",
+      "app.js:23",
+      "app.js:26",
+      "app.js:27",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p4} Assemble your Main Sentai and turn the tide.",
+    "placeholders": [
+      "p4"
+    ],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "{p4}×",
+    "placeholders": [
+      "p4"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "{p5}",
+    "placeholders": [
+      "p5"
+    ],
+    "locations": [
+      "app.js:19",
+      "app.js:20",
+      "app.js:22",
+      "app.js:26",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p5}{p6}",
+    "placeholders": [
+      "p5",
+      "p6"
+    ],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "{p6}",
+    "placeholders": [
+      "p6"
+    ],
+    "locations": [
+      "app.js:18",
+      "app.js:19",
+      "app.js:20",
+      "app.js:22",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p7}",
+    "placeholders": [
+      "p7"
+    ],
+    "locations": [
+      "app.js:18",
+      "app.js:20",
+      "app.js:23",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "{p7} Mana · {p8} V-Gems",
+    "placeholders": [
+      "p7",
+      "p8"
+    ],
+    "locations": [
+      "app.js:19"
+    ]
+  },
+  {
+    "source": "{p8}",
+    "placeholders": [
+      "p8"
+    ],
+    "locations": [
+      "app.js:18",
+      "app.js:22",
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "{p8}/20 cards",
+    "placeholders": [
+      "p8"
+    ],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "{p9}",
+    "placeholders": [
+      "p9"
+    ],
+    "locations": [
+      "app.js:18",
+      "app.js:19",
+      "app.js:20",
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "/ {p2}",
+    "placeholders": [
+      "p2"
+    ],
+    "locations": [
+      "app.js:21"
+    ]
+  },
+  {
+    "source": "+{p0}",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "+{p1}",
+    "placeholders": [
+      "p1"
+    ],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "+10% fighter attack",
+    "placeholders": [],
+    "locations": [
+      "content.js:17",
+      "dias.unity.description"
+    ]
+  },
+  {
+    "source": "+12% starting Deck HP",
+    "placeholders": [],
+    "locations": [
+      "content.js:17",
+      "dias.resolve.description"
+    ]
+  },
+  {
+    "source": "+8 starting Soul",
+    "placeholders": [],
+    "locations": [
+      "content.js:17",
+      "dias.spirit.description"
+    ]
+  },
+  {
+    "source": "0{p3}",
+    "placeholders": [
+      "p3"
+    ],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "184 archive entries · 108,058 serialized objects.",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "40 cards, four Sentai, five encounters, three Dia",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "A deck needs 20 different cards",
+    "placeholders": [],
+    "locations": [
+      "engine.js:9"
+    ]
+  },
+  {
+    "source": "A new card.",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "A powerful strike against your target.",
+    "placeholders": [],
+    "locations": [
+      "content.js:5",
+      "cards.gokai-red-0.description",
+      "cards.gokai-red-1.description",
+      "cards.gokai-blue-0.description",
+      "cards.gokai-blue-1.description",
+      "cards.gokai-pink-0.description",
+      "cards.gokai-pink-1.description",
+      "cards.shinken-red-0.description",
+      "cards.shinken-red-1.description",
+      "cards.shinken-blue-0.description",
+      "cards.shinken-blue-1.description",
+      "cards.shinken-pink-0.description",
+      "cards.shinken-pink-1.description",
+      "cards.deka-red-0.description",
+      "cards.deka-red-1.description",
+      "cards.deka-blue-0.description",
+      "cards.deka-blue-1.description",
+      "cards.deka-pink-0.description",
+      "cards.deka-pink-1.description",
+      "cards.magi-red-0.description",
+      "cards.magi-red-1.description",
+      "cards.magi-blue-0.description",
+      "cards.magi-blue-1.description",
+      "cards.magi-pink-0.description",
+      "cards.magi-pink-1.description"
+    ]
+  },
+  {
+    "source": "A second form awaits.",
+    "placeholders": [],
+    "locations": [
+      "content.js:11",
+      "stages.giant.subtitle"
+    ]
+  },
+  {
+    "source": "A separate tactical ruleset. The first three cards in your deck form this placeholder squad; original V-Disc data is not yet recovered.",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "A stronger Sentai.",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "A Super Skill needs 40 V.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:23"
+    ]
+  },
+  {
+    "source": "Acquisition",
+    "placeholders": [],
+    "locations": [
+      "app.js:16",
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "ADAPT-001",
+    "placeholders": [],
+    "locations": [
+      "content.js:16"
+    ]
+  },
+  {
+    "source": "Add to deck",
+    "placeholders": [],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "After 12 actions, Sentai Change clears the field and recovers resources. Deploy a new team.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "All missions →",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "All numbers above describe this reconstruction, not verified historical mechanics.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "All Sentai",
+    "placeholders": [],
+    "locations": [
+      "app.js:26"
+    ]
+  },
+  {
+    "source": "An active unpaused battle and valid slot are required.",
+    "placeholders": [],
+    "locations": [
+      "app.js:80"
+    ]
+  },
+  {
+    "source": "Another tab changed this profile. Reload before continuing.",
+    "placeholders": [],
+    "locations": [
+      "app.js:11"
+    ]
+  },
+  {
+    "source": "APK VERIFIED",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Archive",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "ARCHIVE",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Archive · all missions accessible",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Archive challengers",
+    "placeholders": [],
+    "locations": [
+      "app.js:23",
+      "content.js:13",
+      "stages.arena.enemy"
+    ]
+  },
+  {
+    "source": "ARCHIVE EVENT",
+    "placeholders": [],
+    "locations": [
+      "app.js:19"
+    ]
+  },
+  {
+    "source": "ARCHIVE RECRUITMENT",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Archive squad",
+    "placeholders": [],
+    "locations": [
+      "app.js:71",
+      "profile.js:4"
+    ]
+  },
+  {
+    "source": "ARCHIVED REPLAY",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Arena replay differs",
+    "placeholders": [],
+    "locations": [
+      "arena.js:9"
+    ]
+  },
+  {
+    "source": "Assemble your Sentai.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "At 100 V, V-Hissatsu delivers your team's finisher and revives downed fighters.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "ATTACK",
+    "placeholders": [],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "August 31, 2020",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Azure challenger",
+    "placeholders": [],
+    "locations": [
+      "arena.js:3"
+    ]
+  },
+  {
+    "source": "Back up & import",
+    "placeholders": [],
+    "locations": [
+      "app.js:32"
+    ]
+  },
+  {
+    "source": "Battle complete",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "BATTLE LOG",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Browser storage is unavailable. Export your progress before closing.",
+    "placeholders": [],
+    "locations": [
+      "app.js:8"
+    ]
+  },
+  {
+    "source": "Browser-local profile · format 1 · no account required",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "BUILD 0.1",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "Build a team. Hold the line.",
+    "placeholders": [],
+    "locations": [
+      "content.js:9",
+      "stages.arrival.subtitle"
+    ]
+  },
+  {
+    "source": "Build two energy with Strike or Guard.",
+    "placeholders": [],
+    "locations": [
+      "arena.js:4"
+    ]
+  },
+  {
+    "source": "Cancel",
+    "placeholders": [],
+    "locations": [
+      "app.js:32"
+    ]
+  },
+  {
+    "source": "CANONICAL TARGET",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Card not owned.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:22"
+    ]
+  },
+  {
+    "source": "CHAIN ×{p0} · Match {p1} or {p2}",
+    "placeholders": [
+      "p0",
+      "p1",
+      "p2"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Chain across colors and teams.",
+    "placeholders": [],
+    "locations": [
+      "content.js:10",
+      "stages.crossfire.subtitle"
+    ]
+  },
+  {
+    "source": "Chain by Sentai or color · Space to pause · C to change · F for finisher",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Chain by the same color or Sentai, or wait for the chain to end.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:24"
+    ]
+  },
+  {
+    "source": "Choose a card in your hand.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:21"
+    ]
+  },
+  {
+    "source": "Choose a mission →",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Choose your next mission",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Choose your Sentai",
+    "placeholders": [],
+    "locations": [
+      "content.js:7"
+    ]
+  },
+  {
+    "source": "CLASSIC",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Classic · sequential campaign",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "CLEARED ✓",
+    "placeholders": [],
+    "locations": [
+      "app.js:19"
+    ]
+  },
+  {
+    "source": "Close",
+    "placeholders": [],
+    "locations": [
+      "app.js:31",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "Colossal awakening",
+    "placeholders": [],
+    "locations": [
+      "content.js:11",
+      "stages.giant.name"
+    ]
+  },
+  {
+    "source": "Command",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "Command a squad in turn-based combat.",
+    "placeholders": [],
+    "locations": [
+      "content.js:13",
+      "stages.arena.subtitle"
+    ]
+  },
+  {
+    "source": "COMMAND BATTLE",
+    "placeholders": [],
+    "locations": [
+      "app.js:19",
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Command center",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Complete the previous chapter first.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:25"
+    ]
+  },
+  {
+    "source": "Content",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Controls",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "COPIES",
+    "placeholders": [],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "Crimson challenger",
+    "placeholders": [],
+    "locations": [
+      "arena.js:3"
+    ]
+  },
+  {
+    "source": "CRITICAL",
+    "placeholders": [],
+    "locations": [
+      "engine.js:15"
+    ]
+  },
+  {
+    "source": "Crossfire",
+    "placeholders": [],
+    "locations": [
+      "content.js:10",
+      "stages.crossfire.name"
+    ]
+  },
+  {
+    "source": "Deck {p14}/20 · Remove a card before adding a new one. Arena uses your first three deck cards.",
+    "placeholders": [
+      "p14"
+    ],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "DECK HP",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Deck HP depleted",
+    "placeholders": [],
+    "locations": [
+      "engine.js:44"
+    ]
+  },
+  {
+    "source": "DEFEAT",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Deka",
+    "placeholders": [],
+    "locations": [
+      "content.js:4"
+    ]
+  },
+  {
+    "source": "Deka Blue",
+    "placeholders": [],
+    "locations": [
+      "cards.deka-blue-0.name",
+      "cards.deka-blue-1.name"
+    ]
+  },
+  {
+    "source": "Deka Green",
+    "placeholders": [],
+    "locations": [
+      "cards.deka-green-0.name",
+      "cards.deka-green-1.name"
+    ]
+  },
+  {
+    "source": "Deka Pink",
+    "placeholders": [],
+    "locations": [
+      "cards.deka-pink-0.name",
+      "cards.deka-pink-1.name"
+    ]
+  },
+  {
+    "source": "Deka Red",
+    "placeholders": [],
+    "locations": [
+      "cards.deka-red-0.name",
+      "cards.deka-red-1.name"
+    ]
+  },
+  {
+    "source": "Deka Yellow",
+    "placeholders": [],
+    "locations": [
+      "cards.deka-yellow-0.name",
+      "cards.deka-yellow-1.name"
+    ]
+  },
+  {
+    "source": "Dekaranger",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.deka.name"
+    ]
+  },
+  {
+    "source": "Deploy a card from your hand. It establishes your Main Sentai.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "Deploy a card to establish your Main Sentai.",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Deploy Sentai",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Deploy Sentai →",
+    "placeholders": [],
+    "locations": [
+      "app.js:25"
+    ]
+  },
+  {
+    "source": "Deploy your team and fill V to 100.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:27"
+    ]
+  },
+  {
+    "source": "DEPLOYMENT READY",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "DOWN",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Dread Colossus",
+    "placeholders": [],
+    "locations": [
+      "content.js:11",
+      "stages.giant.enemy"
+    ]
+  },
+  {
+    "source": "Duplicates add one copy and grant 60 Mana.",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Each of 20 cards in a rarity is equally likely.",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "ENEMY HP",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Energy {p5}{p6}",
+    "placeholders": [
+      "p5",
+      "p6"
+    ],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "English",
+    "placeholders": [],
+    "locations": [
+      "app.js:14",
+      "language-controls"
+    ]
+  },
+  {
+    "source": "Equip",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "EQUIPPED",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "EX",
+    "placeholders": [],
+    "locations": [
+      "content.js:12"
+    ]
+  },
+  {
+    "source": "Exit replay",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Export a save before changing devices or clearing browser storage. Import validates the file and asks before replacing your profile.",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Export recovery data",
+    "placeholders": [],
+    "locations": [
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "Export replay",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Export save",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Export save ↗",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Export stored recovery data",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "FIELD MANUAL",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "Final-release status is still unverified.",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Final-state target · 2020",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "Finish or leave the current encounter first.",
+    "placeholders": [],
+    "locations": [
+      "app.js:42"
+    ]
+  },
+  {
+    "source": "First deployment",
+    "placeholders": [],
+    "locations": [
+      "content.js:9",
+      "stages.arrival.name"
+    ]
+  },
+  {
+    "source": "Five playable reconstruction missions. Archive mode opens every encounter; Classic unlocks the campaign in order.",
+    "placeholders": [],
+    "locations": [
+      "app.js:25"
+    ]
+  },
+  {
+    "source": "Five training levels, rewards, recruitment, exchanges",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "For three seconds, chain another card by the same color or Sentai. The chain bonus grows.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "FULL SENTAI · Roll call!",
+    "placeholders": [],
+    "locations": [
+      "engine.js:37"
+    ]
+  },
+  {
+    "source": "Gathering spirit",
+    "placeholders": [],
+    "locations": [
+      "content.js:17",
+      "dias.spirit.name"
+    ]
+  },
+  {
+    "source": "Generated quarry artwork; symbolic card designs; synthesized cues",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "GIANT ENEMY",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "GIANT PHASE · The enemy has grown!",
+    "placeholders": [],
+    "locations": [
+      "engine.js:16"
+    ]
+  },
+  {
+    "source": "Gokai",
+    "placeholders": [],
+    "locations": [
+      "content.js:4"
+    ]
+  },
+  {
+    "source": "Gokai Blue",
+    "placeholders": [],
+    "locations": [
+      "cards.gokai-blue-0.name",
+      "cards.gokai-blue-1.name"
+    ]
+  },
+  {
+    "source": "Gokai Green",
+    "placeholders": [],
+    "locations": [
+      "cards.gokai-green-0.name",
+      "cards.gokai-green-1.name"
+    ]
+  },
+  {
+    "source": "Gokai Pink",
+    "placeholders": [],
+    "locations": [
+      "cards.gokai-pink-0.name",
+      "cards.gokai-pink-1.name"
+    ]
+  },
+  {
+    "source": "Gokai Red",
+    "placeholders": [],
+    "locations": [
+      "cards.gokai-red-0.name",
+      "cards.gokai-red-1.name"
+    ]
+  },
+  {
+    "source": "Gokai Yellow",
+    "placeholders": [],
+    "locations": [
+      "cards.gokai-yellow-0.name",
+      "cards.gokai-yellow-1.name"
+    ]
+  },
+  {
+    "source": "Gokaiger",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.gokai.name"
+    ]
+  },
+  {
+    "source": "Gold challenger",
+    "placeholders": [],
+    "locations": [
+      "arena.js:3"
+    ]
+  },
+  {
+    "source": "Guard + recover",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "HERO",
+    "placeholders": [],
+    "locations": [
+      "app.js:56",
+      "profile.js:4",
+      "content.js:5"
+    ]
+  },
+  {
+    "source": "Hero Arena",
+    "placeholders": [],
+    "locations": [
+      "app.js:29",
+      "content.js:13",
+      "stages.arena.name"
+    ]
+  },
+  {
+    "source": "HERO ARENA",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Hero Arena · Round {p0}",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "Historical evidence",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Historical final-state behavior is the target. This build uses a separate, explicitly reconstructed ruleset.",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "HONEST PRESERVATION",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "How to play",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "HP",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "Import a save",
+    "placeholders": [],
+    "locations": [
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "Import save",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "IN DECK",
+    "placeholders": [],
+    "locations": [
+      "app.js:18"
+    ]
+  },
+  {
+    "source": "Independent preservation build",
+    "placeholders": [],
+    "locations": [
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "INPUT",
+    "placeholders": [],
+    "locations": [
+      "app.js:74"
+    ]
+  },
+  {
+    "source": "Invalid battle configuration.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:15"
+    ]
+  },
+  {
+    "source": "Invalid battle record.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:15"
+    ]
+  },
+  {
+    "source": "Invalid collection.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:9"
+    ]
+  },
+  {
+    "source": "Invalid deck.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:10"
+    ]
+  },
+  {
+    "source": "Invalid Dia.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:11"
+    ]
+  },
+  {
+    "source": "Invalid profile values.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:8"
+    ]
+  },
+  {
+    "source": "Invalid replay command:",
+    "placeholders": [],
+    "locations": [
+      "engine.js:47"
+    ]
+  },
+  {
+    "source": "Invalid settings.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:14"
+    ]
+  },
+  {
+    "source": "Invalid stage progress.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:12"
+    ]
+  },
+  {
+    "source": "Invalid transaction ledger.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:13"
+    ]
+  },
+  {
+    "source": "Iron Sentinel",
+    "placeholders": [],
+    "locations": [
+      "content.js:10",
+      "stages.crossfire.enemy"
+    ]
+  },
+  {
+    "source": "Japanese (partial; English fallback)",
+    "placeholders": [],
+    "locations": [
+      "app.js:14",
+      "language-controls"
+    ]
+  },
+  {
+    "source": "Kaizoku Sentai",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.gokai.title"
+    ]
+  },
+  {
+    "source": "Keep progressing",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Keyboard: 1–6 deploy · S skill mode · C change · F finisher · Space pause.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "Language",
+    "placeholders": [],
+    "locations": [
+      "app.js:14",
+      "language-controls"
+    ]
+  },
+  {
+    "source": "Language preference is stored on this device.",
+    "placeholders": [],
+    "locations": [
+      "app.js:30",
+      "language-controls"
+    ]
+  },
+  {
+    "source": "Leave Arena",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "LEGEND",
+    "placeholders": [],
+    "locations": [
+      "app.js:16",
+      "profile.js:23",
+      "content.js:5"
+    ]
+  },
+  {
+    "source": "Legend Dia",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "Legend Wars · Preservation",
+    "placeholders": [],
+    "locations": [
+      "app.js:34",
+      "index.html"
+    ]
+  },
+  {
+    "source": "Legend Wars Preservation save",
+    "placeholders": [],
+    "locations": [
+      "profile.js:20"
+    ]
+  },
+  {
+    "source": "LEVEL / 5",
+    "placeholders": [],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "LIMITLESS ARCHIVE",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "local-{p0}",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "profile.js:4"
+    ]
+  },
+  {
+    "source": "LOCKED",
+    "placeholders": [],
+    "locations": [
+      "app.js:18",
+      "app.js:19"
+    ]
+  },
+  {
+    "source": "Lv.{p12}",
+    "placeholders": [
+      "p12"
+    ],
+    "locations": [
+      "app.js:18"
+    ]
+  },
+  {
+    "source": "Magi",
+    "placeholders": [],
+    "locations": [
+      "content.js:4"
+    ]
+  },
+  {
+    "source": "Magi Blue",
+    "placeholders": [],
+    "locations": [
+      "cards.magi-blue-0.name",
+      "cards.magi-blue-1.name"
+    ]
+  },
+  {
+    "source": "Magi Green",
+    "placeholders": [],
+    "locations": [
+      "cards.magi-green-0.name",
+      "cards.magi-green-1.name"
+    ]
+  },
+  {
+    "source": "Magi Pink",
+    "placeholders": [],
+    "locations": [
+      "cards.magi-pink-0.name",
+      "cards.magi-pink-1.name"
+    ]
+  },
+  {
+    "source": "Magi Red",
+    "placeholders": [],
+    "locations": [
+      "cards.magi-red-0.name",
+      "cards.magi-red-1.name"
+    ]
+  },
+  {
+    "source": "Magi Yellow",
+    "placeholders": [],
+    "locations": [
+      "cards.magi-yellow-0.name",
+      "cards.magi-yellow-1.name"
+    ]
+  },
+  {
+    "source": "Magiranger",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.magi.name"
+    ]
+  },
+  {
+    "source": "Mahou Sentai",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.magi.title"
+    ]
+  },
+  {
+    "source": "MAIN SENTAI",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Main Sentai cards stay and attack automatically. Other teams make an assist attack.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "Mana",
+    "placeholders": [],
+    "locations": [
+      "app.js:17",
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Manage your deck →",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Maximum level",
+    "placeholders": [],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "Maximum reconstruction level reached.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:22"
+    ]
+  },
+  {
+    "source": "MISSION",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Mission archive",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Mission complete",
+    "placeholders": [],
+    "locations": [
+      "engine.js:16"
+    ]
+  },
+  {
+    "source": "MISSION RESULT",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Mission withdrawn",
+    "placeholders": [],
+    "locations": [
+      "engine.js:30"
+    ]
+  },
+  {
+    "source": "Missions",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "My Sentai",
+    "placeholders": [],
+    "locations": [
+      "app.js:16",
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Native damage and timing formulas, complete master tables, original stage/event definitions, V-Disc data, audiovisual mappings and historical version differences. Original stories, complete modes, co-op, and original 3D animation are not implemented.",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "NOT DEPLOYED",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Not enough Mana.",
+    "placeholders": [],
+    "locations": [
+      "app.js:58"
+    ]
+  },
+  {
+    "source": "Not enough Soul.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:22"
+    ]
+  },
+  {
+    "source": "Offline and recovery",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Offline installation unavailable. The game still works online.",
+    "placeholders": [],
+    "locations": [
+      "app.js:79"
+    ]
+  },
+  {
+    "source": "One reconstructed loadout slot",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "Original concept artwork · not recovered footage",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Original placeholders",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "OWNED",
+    "placeholders": [],
+    "locations": [
+      "app.js:18"
+    ]
+  },
+  {
+    "source": "Pause",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Play a numbered hand card in the active unpaused V-Card battle.",
+    "placeholders": [],
+    "locations": [
+      "app.js:80"
+    ]
+  },
+  {
+    "source": "Play last replay",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Play your way",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Playable does not mean historically verified.",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Playable reconstruction",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "Playable systems and original placeholder art. Historical formulas and content are still being recovered.",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Portable progress",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Presentation",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "PRESERVATION",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "Preservation archive",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Progress could not be saved. Export a backup.",
+    "placeholders": [],
+    "locations": [
+      "app.js:11"
+    ]
+  },
+  {
+    "source": "Progress stays on this device. Export a save to carry it with you.",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Progression",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Progression policy",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Read profile and current battle state without changing the game.",
+    "placeholders": [],
+    "locations": [
+      "app.js:80"
+    ]
+  },
+  {
+    "source": "Ready to deploy",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "Reconstructed",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "RECONSTRUCTED BUILD",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "RECONSTRUCTED MISSION",
+    "placeholders": [],
+    "locations": [
+      "app.js:19"
+    ]
+  },
+  {
+    "source": "RECONSTRUCTED MODIFIER",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "Reconstructed pool: HERO 75% · LEGEND 25%",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Reconstructed rules · No real-money purchases",
+    "placeholders": [],
+    "locations": [
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "RECONSTRUCTED V-CARD BATTLE",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Recovered your previous save. The latest copy could not be read.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:21"
+    ]
+  },
+  {
+    "source": "Recruit · 50 V-Gems →",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Reduced motion",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "Regroup, strengthen your cards, and try again.",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Remove from deck",
+    "placeholders": [],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "Remove one card first; your deck already has 20.",
+    "placeholders": [],
+    "locations": [
+      "app.js:55"
+    ]
+  },
+  {
+    "source": "Replace this profile?",
+    "placeholders": [],
+    "locations": [
+      "app.js:32"
+    ]
+  },
+  {
+    "source": "REPLAY · NO REWARDS",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Replay any cleared mission to earn Mana and V-Gems. Train cards in your collection and unlock a Legend Dia for your deck.",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "Replay contains unreachable commands",
+    "placeholders": [],
+    "locations": [
+      "engine.js:47"
+    ]
+  },
+  {
+    "source": "Replay rules version is unavailable.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:47"
+    ]
+  },
+  {
+    "source": "Replay verification failed",
+    "placeholders": [],
+    "locations": [
+      "app.js:68"
+    ]
+  },
+  {
+    "source": "Replay your last encounter",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Replays preserve the starting configuration, seed and commands. V-Card replays animate; Arena replays verify and display the final result. Neither awards rewards.",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Restore Deck HP.",
+    "placeholders": [],
+    "locations": [
+      "content.js:5",
+      "cards.gokai-yellow-0.description",
+      "cards.gokai-yellow-1.description",
+      "cards.shinken-yellow-0.description",
+      "cards.shinken-yellow-1.description",
+      "cards.deka-yellow-0.description",
+      "cards.deka-yellow-1.description",
+      "cards.magi-yellow-0.description",
+      "cards.magi-yellow-1.description"
+    ]
+  },
+  {
+    "source": "Restore starter deck",
+    "placeholders": [],
+    "locations": [
+      "app.js:26"
+    ]
+  },
+  {
+    "source": "Restoring light",
+    "placeholders": [],
+    "locations": [
+      "content.js:5",
+      "cards.gokai-yellow-0.skill",
+      "cards.gokai-yellow-1.skill",
+      "cards.shinken-yellow-0.skill",
+      "cards.shinken-yellow-1.skill",
+      "cards.deka-yellow-0.skill",
+      "cards.deka-yellow-1.skill",
+      "cards.magi-yellow-0.skill",
+      "cards.magi-yellow-1.skill"
+    ]
+  },
+  {
+    "source": "Resume",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Resume battle",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "Resume the battle to issue a command.",
+    "placeholders": [],
+    "locations": [
+      "app.js:40"
+    ]
+  },
+  {
+    "source": "Retreat",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Return to command →",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Ruleset {p3} · ADAPT-001. No values in this game should be cited as original game data.",
+    "placeholders": [
+      "p3"
+    ],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Samurai Sentai",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.shinken.title"
+    ]
+  },
+  {
+    "source": "Save & settings",
+    "placeholders": [],
+    "locations": [
+      "app.js:16",
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Save exported",
+    "placeholders": [],
+    "locations": [
+      "app.js:59"
+    ]
+  },
+  {
+    "source": "Save file is too large",
+    "placeholders": [],
+    "locations": [
+      "app.js:73"
+    ]
+  },
+  {
+    "source": "Save imported",
+    "placeholders": [],
+    "locations": [
+      "app.js:61"
+    ]
+  },
+  {
+    "source": "Save name",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "Save recovery",
+    "placeholders": [],
+    "locations": [
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "Saved battle failed its replay check.",
+    "placeholders": [],
+    "locations": [
+      "app.js:39"
+    ]
+  },
+  {
+    "source": "Scope",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "SELECT",
+    "placeholders": [],
+    "locations": [
+      "app.js:74"
+    ]
+  },
+  {
+    "source": "Select a card to train it or change your deck. All card statistics are reconstructed.",
+    "placeholders": [],
+    "locations": [
+      "app.js:26"
+    ]
+  },
+  {
+    "source": "Select a standing opponent.",
+    "placeholders": [],
+    "locations": [
+      "arena.js:4"
+    ]
+  },
+  {
+    "source": "SELECTED MISSION",
+    "placeholders": [],
+    "locations": [
+      "app.js:25"
+    ]
+  },
+  {
+    "source": "Sentai Change",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "SENTAI CHANGE · Deploy a new lead",
+    "placeholders": [],
+    "locations": [
+      "engine.js:31"
+    ]
+  },
+  {
+    "source": "Sentai Change needs 12 actions.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:26"
+    ]
+  },
+  {
+    "source": "Sentai strike",
+    "placeholders": [],
+    "locations": [
+      "content.js:5",
+      "cards.gokai-red-0.skill",
+      "cards.gokai-red-1.skill",
+      "cards.gokai-blue-0.skill",
+      "cards.gokai-blue-1.skill",
+      "cards.gokai-pink-0.skill",
+      "cards.gokai-pink-1.skill",
+      "cards.shinken-red-0.skill",
+      "cards.shinken-red-1.skill",
+      "cards.shinken-blue-0.skill",
+      "cards.shinken-blue-1.skill",
+      "cards.shinken-pink-0.skill",
+      "cards.shinken-pink-1.skill",
+      "cards.deka-red-0.skill",
+      "cards.deka-red-1.skill",
+      "cards.deka-blue-0.skill",
+      "cards.deka-blue-1.skill",
+      "cards.deka-pink-0.skill",
+      "cards.deka-pink-1.skill",
+      "cards.magi-red-0.skill",
+      "cards.magi-red-1.skill",
+      "cards.magi-blue-0.skill",
+      "cards.magi-blue-1.skill",
+      "cards.magi-pink-0.skill",
+      "cards.magi-pink-1.skill"
+    ]
+  },
+  {
+    "source": "Separate command engine; placeholder squad data",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "SEPARATE RECONSTRUCTED COMMAND ENGINE",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "serviceWorker",
+    "placeholders": [],
+    "locations": [
+      "app.js:79"
+    ]
+  },
+  {
+    "source": "Shinken",
+    "placeholders": [],
+    "locations": [
+      "content.js:4"
+    ]
+  },
+  {
+    "source": "Shinken Blue",
+    "placeholders": [],
+    "locations": [
+      "cards.shinken-blue-0.name",
+      "cards.shinken-blue-1.name"
+    ]
+  },
+  {
+    "source": "Shinken Green",
+    "placeholders": [],
+    "locations": [
+      "cards.shinken-green-0.name",
+      "cards.shinken-green-1.name"
+    ]
+  },
+  {
+    "source": "Shinken Pink",
+    "placeholders": [],
+    "locations": [
+      "cards.shinken-pink-0.name",
+      "cards.shinken-pink-1.name"
+    ]
+  },
+  {
+    "source": "Shinken Red",
+    "placeholders": [],
+    "locations": [
+      "cards.shinken-red-0.name",
+      "cards.shinken-red-1.name"
+    ]
+  },
+  {
+    "source": "Shinken Yellow",
+    "placeholders": [],
+    "locations": [
+      "cards.shinken-yellow-0.name",
+      "cards.shinken-yellow-1.name"
+    ]
+  },
+  {
+    "source": "Shinkenger",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.shinken.name"
+    ]
+  },
+  {
+    "source": "Some Japanese translations are pending. Text inside artwork remains original.",
+    "placeholders": [],
+    "locations": [
+      "app.js:30",
+      "language-controls"
+    ]
+  },
+  {
+    "source": "SOUL",
+    "placeholders": [],
+    "locations": [
+      "app.js:18",
+      "app.js:22",
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "Soul spark",
+    "placeholders": [],
+    "locations": [
+      "content.js:5",
+      "cards.gokai-green-0.skill",
+      "cards.gokai-green-1.skill",
+      "cards.shinken-green-0.skill",
+      "cards.shinken-green-1.skill",
+      "cards.deka-green-0.skill",
+      "cards.deka-green-1.skill",
+      "cards.magi-green-0.skill",
+      "cards.magi-green-1.skill"
+    ]
+  },
+  {
+    "source": "Soul, hand, chaining, Main Sentai, gauges, skills, change, finisher",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Space",
+    "placeholders": [],
+    "locations": [
+      "app.js:74"
+    ]
+  },
+  {
+    "source": "SQUAD MEMBER",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "Squad name",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "Squad name saved",
+    "placeholders": [],
+    "locations": [
+      "app.js:71"
+    ]
+  },
+  {
+    "source": "Start a new profile",
+    "placeholders": [],
+    "locations": [
+      "app.js:34"
+    ]
+  },
+  {
+    "source": "Starter deck restored",
+    "placeholders": [],
+    "locations": [
+      "app.js:56"
+    ]
+  },
+  {
+    "source": "State",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Still to recover",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Stored saves could not be read. Export the recovery data before starting a new profile.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:21"
+    ]
+  },
+  {
+    "source": "Strike",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "Strike and restore Soul.",
+    "placeholders": [],
+    "locations": [
+      "content.js:5",
+      "cards.gokai-green-0.description",
+      "cards.gokai-green-1.description",
+      "cards.shinken-green-0.description",
+      "cards.shinken-green-1.description",
+      "cards.deka-green-0.description",
+      "cards.deka-green-1.description",
+      "cards.magi-green-0.description",
+      "cards.magi-green-1.description"
+    ]
+  },
+  {
+    "source": "Super · 2 energy",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "SUPER SENTAI LEGEND WARS",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "Super Skill",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "SUPER SKILL ON",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Synthesized sound cues",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "System",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "TARGET",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "Team finisher",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "TEXTAREA",
+    "placeholders": [],
+    "locations": [
+      "app.js:74"
+    ]
+  },
+  {
+    "source": "That team color is already deployed. Use its Super Skill instead.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:25"
+    ]
+  },
+  {
+    "source": "The app caches its playable content after the first successful load. Keep a separate save export.",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "The imported profile has {p0} cards and {p1} V-Gems. Your current save will be downloaded before replacement.",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "app.js:32"
+    ]
+  },
+  {
+    "source": "The save checksum does not match.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:19"
+    ]
+  },
+  {
+    "source": "These are reconstruction policies. Combat rules are identical in both modes.",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "This Arena battle has ended.",
+    "placeholders": [],
+    "locations": [
+      "arena.js:4"
+    ]
+  },
+  {
+    "source": "This battle has ended.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:18"
+    ]
+  },
+  {
+    "source": "This file is too large.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:19"
+    ]
+  },
+  {
+    "source": "This is not valid save JSON.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:19"
+    ]
+  },
+  {
+    "source": "This name is cosmetic. Main Sentai is established by your first deployment in battle.",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "This profile changed in another tab. Reload to continue safely.",
+    "placeholders": [],
+    "locations": [
+      "app.js:76"
+    ]
+  },
+  {
+    "source": "This save format or rules version is not supported.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:7"
+    ]
+  },
+  {
+    "source": "Three waves. One surviving deck.",
+    "placeholders": [],
+    "locations": [
+      "content.js:12",
+      "stages.trial.subtitle"
+    ]
+  },
+  {
+    "source": "Time expired",
+    "placeholders": [],
+    "locations": [
+      "engine.js:45"
+    ]
+  },
+  {
+    "source": "Tokusou Sentai",
+    "placeholders": [],
+    "locations": [
+      "content.js:3",
+      "teams.deka.title"
+    ]
+  },
+  {
+    "source": "Train · {p0} Mana",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:33"
+    ]
+  },
+  {
+    "source": "Trial Guardian",
+    "placeholders": [],
+    "locations": [
+      "content.js:12",
+      "stages.trial.enemy"
+    ]
+  },
+  {
+    "source": "Trial of the four",
+    "placeholders": [],
+    "locations": [
+      "content.js:12",
+      "stages.trial.name"
+    ]
+  },
+  {
+    "source": "Unbroken resolve",
+    "placeholders": [],
+    "locations": [
+      "content.js:17",
+      "dias.resolve.name"
+    ]
+  },
+  {
+    "source": "Unequip",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "United front",
+    "placeholders": [],
+    "locations": [
+      "content.js:17",
+      "dias.unity.name"
+    ]
+  },
+  {
+    "source": "Unity 2018.4.9f1 · ARM64 IL2CPP",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "Unknown battle command.",
+    "placeholders": [],
+    "locations": [
+      "engine.js:28"
+    ]
+  },
+  {
+    "source": "Unknown command",
+    "placeholders": [],
+    "locations": [
+      "arena.js:4"
+    ]
+  },
+  {
+    "source": "Unknown mission",
+    "placeholders": [],
+    "locations": [
+      "profile.js:25"
+    ]
+  },
+  {
+    "source": "Unknown stage",
+    "placeholders": [],
+    "locations": [
+      "engine.js:9"
+    ]
+  },
+  {
+    "source": "Unlock · {p0} Mana",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "app.js:27"
+    ]
+  },
+  {
+    "source": "Use Soul to deploy, and 40 V for a Super Skill. Yellow heals; green restores Soul.",
+    "placeholders": [],
+    "locations": [
+      "app.js:31"
+    ]
+  },
+  {
+    "source": "Use V-Gems earned in missions. No purchases.",
+    "placeholders": [],
+    "locations": [
+      "app.js:28"
+    ]
+  },
+  {
+    "source": "V",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "V-Card battle",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "V-CARD BATTLE",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "V-Card collection",
+    "placeholders": [],
+    "locations": [
+      "app.js:17"
+    ]
+  },
+  {
+    "source": "V-Cards",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "V-GAUGE",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "V-Gems",
+    "placeholders": [],
+    "locations": [
+      "app.js:17",
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "V-Hissatsu",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "V-HISSATSU",
+    "placeholders": [],
+    "locations": [
+      "engine.js:32"
+    ]
+  },
+  {
+    "source": "Vanguard",
+    "placeholders": [],
+    "locations": [
+      "content.js:9",
+      "stages.arrival.enemy"
+    ]
+  },
+  {
+    "source": "VICTORY",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "View evidence ↗",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "VS",
+    "placeholders": [],
+    "locations": [
+      "app.js:23",
+      "content.js:13"
+    ]
+  },
+  {
+    "source": "WARS",
+    "placeholders": [],
+    "locations": [
+      "app.js:16"
+    ]
+  },
+  {
+    "source": "Wave {p0} · Reinforcements incoming",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "engine.js:16"
+    ]
+  },
+  {
+    "source": "WAVE {p0} / {p1}",
+    "placeholders": [
+      "p0",
+      "p1"
+    ],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "What's in this build",
+    "placeholders": [],
+    "locations": [
+      "app.js:29"
+    ]
+  },
+  {
+    "source": "When moving from a local preview to the hosted game, export and import your profile; each address has its own storage.",
+    "placeholders": [],
+    "locations": [
+      "app.js:30"
+    ]
+  },
+  {
+    "source": "WITHDRAWN",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "You need {p0} Mana.",
+    "placeholders": [
+      "p0"
+    ],
+    "locations": [
+      "profile.js:22"
+    ]
+  },
+  {
+    "source": "You need 50 V-Gems. Earn them from missions.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:23"
+    ]
+  },
+  {
+    "source": "YOUR ARCHIVE",
+    "placeholders": [],
+    "locations": [
+      "app.js:20"
+    ]
+  },
+  {
+    "source": "YOUR COMMAND",
+    "placeholders": [],
+    "locations": [
+      "app.js:23"
+    ]
+  },
+  {
+    "source": "Your deck needs exactly 20 cards.",
+    "placeholders": [],
+    "locations": [
+      "profile.js:25"
+    ]
+  },
+  {
+    "source": "Your hand",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "Your Sentai held the line.",
+    "placeholders": [],
+    "locations": [
+      "app.js:24"
+    ]
+  },
+  {
+    "source": "Your Sentai is fighting.",
+    "placeholders": [],
+    "locations": [
+      "app.js:22"
+    ]
+  },
+  {
+    "source": "YOUR TEAM",
+    "placeholders": [],
+    "locations": [
+      "app.js:27"
+    ]
+  }
+]
