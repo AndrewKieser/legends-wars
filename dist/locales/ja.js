@@ -1,0 +1,33 @@
+// Draft UI translation. Missing entries deliberately fall back to English.
+// This is not recovered original Japanese game text.
+export default {
+  'Language':'言語', 'English':'English',
+  'Japanese (partial; English fallback)':'日本語（翻訳中・未翻訳部分は英語）',
+  'Language preference is stored on this device.':'言語設定はこの端末に保存されます。',
+  'Some Japanese translations are pending. Text inside artwork remains original.':'日本語訳は作業中です。画像内の文字は原文のまま表示されます。',
+  'Command':'ホーム','Missions':'ミッション','V-Cards':'Vカード','My Sentai':'マイ戦隊',
+  'Acquisition':'入手','Archive':'アーカイブ','Save & settings':'セーブ・設定',
+  'Command center':'ホーム','Mission archive':'ミッション一覧','V-Card collection':'Vカード一覧',
+  'Preservation archive':'保存資料','Mana':'マナ','V-Gems':'Vジェム',
+  'Resume':'再開','Pause':'一時停止','Retreat':'撤退','Exit replay':'リプレイを終了',
+  'How to play':'遊び方','Controls':'操作方法','Close':'閉じる','Cancel':'キャンセル',
+  'Export save':'セーブを書き出す','Import save':'セーブを読み込む',
+  'Save exported':'セーブを書き出しました','Save imported':'セーブを読み込みました',
+  'Save name':'名前を保存','Squad name':'チーム名','Squad name saved':'チーム名を保存しました',
+  'All Sentai':'全戦隊','Restore starter deck':'初期デッキに戻す',
+  'Add to deck':'デッキに追加','Remove from deck':'デッキから外す',
+  'Maximum level':'最大レベル','Equip':'装備','Unequip':'装備を外す','EQUIPPED':'装備中',
+  'IN DECK':'編成中','OWNED':'所持','LOCKED':'未解放','CLEARED ✓':'クリア済み ✓',
+  'Deploy Sentai':'出撃','Resume battle':'バトルを再開','Deploy Sentai →':'出撃 →',
+  'DECK HP':'デッキHP','ENEMY HP':'敵HP','SOUL':'ソウル','V-GAUGE':'Vゲージ',
+  'BATTLE LOG':'バトルログ','MAIN SENTAI':'メイン戦隊','NOT DEPLOYED':'未配置','DOWN':'戦闘不能',
+  'VICTORY':'勝利','DEFEAT':'敗北','WITHDRAWN':'撤退','MISSION RESULT':'バトル結果',
+  'Play last replay':'前回のリプレイを再生','Export replay':'リプレイを書き出す',
+  'Reduced motion':'動きを減らす','Synthesized sound cues':'合成効果音',
+  'Mission complete':'ミッションクリア','Mission withdrawn':'撤退しました',
+  'Battle complete':'バトル終了','Strike':'攻撃','Guard + recover':'防御・回復',
+  'Hero Arena · Round {p0}':'ヒーローアリーナ・ラウンド{p0}',
+  'Train · {p0} Mana':'強化・{p0}マナ',
+  'You need {p0} Mana.':'{p0}マナが必要です。',
+  '{p0} selected':'{p0}を選択しました'
+};
