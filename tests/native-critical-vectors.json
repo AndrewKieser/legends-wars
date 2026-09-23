@@ -1,0 +1,75 @@
+{
+  "source": "APK 4.2.3 libil2cpp.so",
+  "scope": "Isolated ARM64 critical-adjustment block; controlled input registers and initialized static field. Not full battle validation.",
+  "start": "0x138df9c",
+  "end_exclusive": "0x138dff0",
+  "block_sha256": "66b26f220d087ea94d4cd3d58fa711e9f3defe345d31fa0470a771a5f7d67b1a",
+  "vectors": [
+    {
+      "attackWithAddition": 101,
+      "isCritical": false,
+      "criticalRate": 0,
+      "expected": 101
+    },
+    {
+      "attackWithAddition": 101,
+      "isCritical": true,
+      "criticalRate": 0,
+      "expected": 151
+    },
+    {
+      "attackWithAddition": 101,
+      "isCritical": true,
+      "criticalRate": 0.25,
+      "expected": 126
+    },
+    {
+      "attackWithAddition": -101,
+      "isCritical": true,
+      "criticalRate": 0,
+      "expected": -151
+    },
+    {
+      "attackWithAddition": 0,
+      "isCritical": true,
+      "criticalRate": 0,
+      "expected": 0
+    },
+    {
+      "attackWithAddition": 16777217,
+      "isCritical": true,
+      "criticalRate": 0,
+      "expected": 25165825
+    },
+    {
+      "attackWithAddition": 2147483647,
+      "isCritical": true,
+      "criticalRate": 0,
+      "expected": -1073741825
+    },
+    {
+      "attackWithAddition": -2147483648,
+      "isCritical": true,
+      "criticalRate": 0,
+      "expected": 1073741824
+    },
+    {
+      "attackWithAddition": 100,
+      "isCritical": true,
+      "criticalRate": -0.25,
+      "expected": 75
+    },
+    {
+      "attackWithAddition": 100,
+      "isCritical": true,
+      "criticalRate": 1.25,
+      "expected": 225
+    },
+    {
+      "attackWithAddition": 101,
+      "isCritical": false,
+      "criticalRate": 0.75,
+      "expected": 101
+    }
+  ]
+}
